@@ -1,0 +1,15 @@
+$theme-colors: (
+  "primary": #6f11ad,
+  "danger": #ff6f36
+);
+
+$border-radius: 10rem;
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.main-form {
+	width: 450px;
+	margin: auto;
+}
+
